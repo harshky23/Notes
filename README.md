@@ -2,10 +2,7 @@
 
 The Notes App with JWT Authentication is a web application that allows users to create, manage, and store their personal notes securely. It is built on the MERN stack, which includes MongoDB for the database, Express.js for the server, React.js for the frontend, and Node.js for the backend. JWT (JSON Web Tokens) is used for user authentication and authorization, ensuring a secure user experience.
 
-
-
-https://github.com/harshky23/Notes/assets/77272906/e9b0fe6f-faf6-4bee-b7c7-4fee5c806e19
-
+https://github.com/harshky23/Notes/assets/77272906/301b985f-827c-4947-a03f-80b83cd19ef4
 
 <h3>Features</h3>
 User registration and login using JWT authentication.
